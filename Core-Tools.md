@@ -6,6 +6,10 @@
 
 | 名称 | 作者 / 团队 | 仓库地址 | 说明 | 推荐程度 |
 |------|-------------|----------|------|----------|
+| QQbot-Core | sunflowermm | [GitHub](https://github.com/sunflowermm/QQbot-Core) | XRK-AGT QQ 官方机器人通道 Core：基于 qq-group-bot 接入 QQ 群与频道，将消息标准化为 XRK 事件，支持主动消息 | ★★★★★ |
+| Feishu-Core | sunflowermm | [GitHub](https://github.com/sunflowermm/Feishu-Core) | XRK-AGT 飞书通道 Core：基于 @larksuiteoapi/node-sdk 连接飞书，将 Lark 消息标准化为 XRK 事件，与插件链无缝对接 | ★★★★★ |
+| xiaozhi-Core | sunflowermm | [GitHub](https://github.com/sunflowermm/xiaozhi-Core) | XRK-AGT 对接 xiaozhi-esp32 的语音 Core：实现 WebSocket 协议，设备直连即可走 ASR→LLM→TTS 零延迟链路 | ★★★★★ |
+| Openclaw-Core | sunflowermm | [GitHub](https://github.com/sunflowermm/Openclaw-Core) | XRK-AGT ↔ OpenClaw 桥接 Core：通过 Tasker+插件将受控消息安全转发到 OpenClaw Agent 并回流到前端 | ★★★★★ |
 | 占位示例工具 | - | - | 在此处补充你的核心工具 / 中间件项目 | ★★★★☆ |
 
 > 新增条目时，请按从上到下「新到旧」排序。

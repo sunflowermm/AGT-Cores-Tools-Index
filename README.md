@@ -57,6 +57,9 @@
 
 > 建议优先从这些项目入手，了解 XRK-AGT 的整体设计与最佳实践。
 
+[**示例业务 Core 推荐：Example-Core**](https://github.com/sunflowermm/Example-Core)  
+用于演示 XRK-AGT 中 plugin / events / http / stream / tasker / www 等完整能力的「教学型 Core」，适合作为二开与新 Core 开发的参考模板（推荐指数：★★★★★）。
+
 [>>> 点击此处查看核心框架索引 <<<](./Core-Framework.md)
 
 ---
