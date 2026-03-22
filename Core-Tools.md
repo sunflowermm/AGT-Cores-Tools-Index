@@ -6,6 +6,7 @@
 
 | 名称 | 作者 / 团队 | 仓库地址 | 说明 | 推荐程度 |
 |------|-------------|----------|------|----------|
+| QQbot-Core（社区完善版） | 3106961196 | [GitHub](https://github.com/3106961196/QQbot-Core) | 基于官方 [QQbot-Core](https://github.com/sunflowermm/QQbot-Core) 改编完善：QQ 官方机器人适配（qq-group-bot），含 Web 管理、HTTP API、管理员指令与账号配置说明 | ★★★★★ |
 | Telegram-Core | sunflowermm | [GitHub](https://github.com/sunflowermm/Telegram-Core) | XRK-AGT Telegram Bot 通道 Core：基于 node-telegram-bot-api 长轮询，事件与 NTBA `processUpdate` 对齐，经 `e.reply` 与专用应答进入插件 | ★★★★★ |
 | Wechat-entreprise-Core | sunflowermm | [GitHub](https://github.com/sunflowermm/Wechat-entreprise-Core) | XRK-AGT 企业微信通道 Core：自建应用回调收消息 + `message/send` 主动发消息，事件 `wecom.message` / `wecom.notice`，`e.reply` 走插件 | ★★★★★ |
 | QQbot-Core | sunflowermm | [GitHub](https://github.com/sunflowermm/QQbot-Core) | XRK-AGT QQ 官方机器人通道 Core：基于 qq-group-bot 接入 QQ 群与频道，将消息标准化为 XRK 事件，支持主动消息 | ★★★★★ |
