@@ -57,8 +57,8 @@
 
 > 建议优先从这些项目入手，了解 XRK-AGT 的整体设计与最佳实践。
 
-[**示例业务 Core 推荐：Example-Core**](https://github.com/sunflowermm/Example-Core)  
-用于演示 XRK-AGT 中 plugin / events / http / stream / tasker / www 等完整能力的「教学型 Core」，适合作为二开与新 Core 开发的参考模板（推荐指数：★★★★★）。
+[**官方示例 Core：Example-Core**](https://github.com/sunflowermm/Example-Core)  
+演示 plugin / events / http / stream / tasker / www 全扩展点的教学型 Core，适合二开与新 Core 开发参考（★★★★★）。
 
 [>>> 点击此处查看核心框架索引 <<<](./Core-Framework.md)
 
@@ -86,6 +86,12 @@
 ## 📦 基于 XRK-AGT 的应用项目
 
 这里展示的是直接基于 XRK-AGT 搭建的 **完整应用项目**，例如 Bot、助手、面向具体业务场景的 AGT 应用等。
+
+[**Web Agent 应用：lsy-Core（墨）**](https://github.com/sunflowermm/lsy-Core)  
+墨水风多账号 Web Agent：工作区、工具白名单、配额审计与独立管理台（★★★★★）。
+
+[**行情大屏：kaguya-Core**](https://gitcode.com/kaguya3033/kaguya-Core)  
+A 股实时行情 API + 大屏前端 + 天气 AIStream 工具（★★★★☆）。
 
 [>>> 点击此处查看应用项目索引 <<<](./Apps.md)
 
